@@ -53,13 +53,3 @@ Projeto desenvolvido por Jhenifer Rodrigues
 📜 Licença
 
 Este projeto é apenas para fins educacionais.
----
-
-Se quiser, posso:
-- Adaptar para um tom **mais profissional** (portfólio)
-- Deixar mais **divertido/geek**
-- Criar uma versão em **inglês**
-- Ajustar ao nível **iniciante ou intermediário**
-
-É só me dizer 🦭💙
-
